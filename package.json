@@ -2,7 +2,7 @@
   "homepage": "http://kotarac-radovan.github.io/react-bank-project",
   "name": "vite-project",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
  
